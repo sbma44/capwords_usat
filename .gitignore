@@ -36,3 +36,5 @@ nosetests.xml
 
 *.csv
 *.pickle
+local_settings.py
+.DS_Store
